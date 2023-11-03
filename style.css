@@ -1,0 +1,30 @@
+*::after
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image:url(https://i.postimg.cc/vBYnFzBT/R-1.jpg)
+}
+.nav-item {
+    padding-inline: 30px;
+    border : 1px;
+    border-right: 1px solid;
+}
+.nav-item {
+    padding-inline: 30px;
+    border: 1px;
+}
+.nav-link {
+    color: black;
+}
+.navbar ul li {
+    position: relative;
+    height: auto;
+    /* width: 100px; */
+    float: left;
+    text-align: center;
+    list-style: none;
+    background: transparent;
+}
